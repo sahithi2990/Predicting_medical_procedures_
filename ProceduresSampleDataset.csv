@@ -1,0 +1,101 @@
+procedure_id,type_of_procedure,length_of_procedure_min,severity_of_condition,severity_post_procedure_complications,pain,recurrence_of_original_condition,age,gender,cost,outcome
+4,Epilepsy Surgery,1079,4,5,2,0,11,Male,65780,1
+3,Heart Valve surgery,88,1,1,0,1,29,Female,6317,1
+6,Hip Replacement Surgery,332,5,2,2,1,1,Male,46429,0
+12,Congenital heart defect Surgery,715,5,2,0,0,89,Male,44601,1
+12,Congenital heart defect Surgery,137,5,4,5,1,17,Female,80425,0
+12,Congenital heart defect Surgery,424,3,3,5,1,16,Male,80345,1
+7,Joint Fusion Surgery,611,1,3,2,0,61,Male,96328,0
+5,Heart Bypass Surgery,390,4,4,2,0,48,Male,69051,0
+3,Heart Valve surgery,1102,3,1,4,1,2,Male,26281,0
+10,Hernia Surgery,1413,3,0,5,0,82,Female,58127,1
+2,C-Section,398,2,3,1,0,21,Male,55178,0
+8,Liver Transplant,1098,1,4,1,1,87,Female,86717,0
+5,Heart Bypass Surgery,1195,2,1,3,1,61,Male,99007,1
+4,Epilepsy Surgery,558,0,0,2,1,36,Male,1286,1
+10,Hernia Surgery,60,5,1,2,0,30,Female,77996,1
+2,C-Section,761,0,3,1,0,21,Female,43619,0
+13,Bone Marrow Aspiration,1111,5,0,1,1,3,Male,86401,1
+10,Hernia Surgery,1237,2,0,4,1,80,Female,99647,1
+6,Hip Replacement Surgery,648,4,4,3,1,72,Male,8866,1
+7,Joint Fusion Surgery,716,1,5,3,1,77,Male,58490,0
+3,Heart Valve surgery,579,2,0,0,1,5,Female,40993,0
+14,Chemotherapy,65,1,4,3,1,59,Female,44704,0
+13,Bone Marrow Aspiration,326,4,1,3,1,95,Female,90692,0
+10,Hernia Surgery,219,5,5,4,1,95,Male,84633,1
+6,Hip Replacement Surgery,1202,4,1,2,1,79,Male,71893,1
+4,Epilepsy Surgery,327,3,4,2,1,65,Female,69686,0
+2,C-Section,830,1,5,4,0,12,Female,56257,0
+4,Epilepsy Surgery,715,0,0,4,1,30,Female,3042,0
+13,Bone Marrow Aspiration,456,5,5,2,1,95,Female,24178,1
+3,Heart Valve surgery,376,5,2,0,0,34,Male,6653,1
+9,Weight Loss Surgery,972,5,0,5,0,22,Male,39142,0
+10,Hernia Surgery,224,1,0,1,1,58,Male,5803,0
+1,Appendectomy,483,1,2,3,1,54,Male,77410,1
+4,Epilepsy Surgery,1430,4,4,2,1,75,Female,38779,1
+11,Rotator cuff surgery,282,0,2,2,0,35,Male,94860,1
+5,Heart Bypass Surgery,488,5,5,3,1,74,Male,63760,0
+3,Heart Valve surgery,1145,4,5,1,1,55,Male,61671,0
+1,Appendectomy,11,4,0,1,1,11,Male,45405,1
+14,Chemotherapy,1214,1,1,5,0,81,Male,38033,1
+8,Liver Transplant,466,4,4,0,1,71,Male,48189,0
+8,Liver Transplant,1159,4,5,2,1,68,Male,92271,1
+3,Heart Valve surgery,317,0,4,1,0,59,Male,28500,0
+3,Heart Valve surgery,1439,3,5,1,1,37,Female,7534,0
+9,Weight Loss Surgery,1262,5,3,4,0,21,Female,23033,0
+12,Congenital heart defect Surgery,10,0,0,0,1,85,Female,55624,0
+11,Rotator cuff surgery,521,2,4,4,0,45,Female,51025,0
+8,Liver Transplant,383,1,4,4,0,48,Male,15691,0
+6,Hip Replacement Surgery,112,5,3,0,1,95,Female,30522,0
+11,Rotator cuff surgery,1322,1,5,3,0,46,Female,26163,0
+1,Appendectomy,1150,3,0,0,0,76,Male,44286,1
+11,Rotator cuff surgery,121,3,5,3,1,32,Male,65273,1
+6,Hip Replacement Surgery,1279,4,1,5,0,39,Female,74431,0
+14,Chemotherapy,805,5,5,5,0,55,Female,50559,1
+3,Heart Valve surgery,510,5,0,1,1,88,Male,32416,1
+4,Epilepsy Surgery,1328,0,4,2,0,19,Male,25763,0
+2,C-Section,511,3,5,0,1,64,Male,3646,1
+9,Weight Loss Surgery,1191,1,3,0,0,41,Male,14788,1
+7,Joint Fusion Surgery,1308,2,0,5,1,56,Male,51434,0
+11,Rotator cuff surgery,62,1,4,4,1,63,Female,55488,0
+2,C-Section,233,5,3,3,0,95,Female,4377,0
+6,Hip Replacement Surgery,1257,5,4,2,1,34,Female,80316,1
+3,Heart Valve surgery,350,1,1,5,1,87,Male,63816,1
+1,Appendectomy,599,2,3,5,0,55,Male,83717,1
+4,Epilepsy Surgery,333,4,3,4,1,88,Female,67229,0
+1,Appendectomy,547,2,0,0,1,12,Female,70742,1
+13,Bone Marrow Aspiration,1321,0,3,3,1,5,Male,27530,1
+2,C-Section,739,2,0,1,0,99,Female,93717,1
+8,Liver Transplant,1033,4,4,5,0,60,Female,88234,0
+5,Heart Bypass Surgery,855,2,1,1,0,56,Male,56784,0
+11,Rotator cuff surgery,499,3,1,4,1,98,Male,15599,0
+3,Heart Valve surgery,1258,5,1,0,0,64,Male,83015,1
+1,Appendectomy,572,0,2,0,0,88,Female,69712,0
+10,Hernia Surgery,487,2,3,5,1,32,Female,158,0
+3,Heart Valve surgery,210,3,4,5,1,95,Female,88354,0
+6,Hip Replacement Surgery,665,0,3,2,0,40,Female,21066,0
+8,Liver Transplant,140,0,2,5,1,37,Female,14151,0
+10,Hernia Surgery,795,0,3,4,1,65,Female,20154,1
+3,Heart Valve surgery,1338,1,0,3,1,79,Male,23668,1
+4,Epilepsy Surgery,670,4,0,5,1,23,Male,75054,0
+11,Rotator cuff surgery,134,2,1,1,1,58,Female,29012,1
+13,Bone Marrow Aspiration,829,3,0,1,0,75,Male,50071,1
+14,Chemotherapy,1286,1,5,0,0,50,Male,66240,1
+3,Heart Valve surgery,375,2,1,3,0,43,Male,75957,1
+13,Bone Marrow Aspiration,1289,4,0,4,1,20,Female,54989,1
+3,Heart Valve surgery,304,4,4,1,0,76,Male,23238,0
+3,Heart Valve surgery,122,5,5,2,1,66,Male,26063,1
+9,Weight Loss Surgery,811,0,1,5,1,65,Female,90437,1
+10,Hernia Surgery,1384,3,0,5,1,26,Male,88881,0
+7,Joint Fusion Surgery,502,3,0,1,0,53,Male,12373,1
+2,C-Section,1002,5,4,0,0,81,Male,48830,1
+10,Hernia Surgery,550,0,5,1,0,76,Female,37411,0
+1,Appendectomy,1242,2,3,2,1,7,Male,57423,0
+6,Hip Replacement Surgery,319,0,3,2,0,87,Male,23943,0
+7,Joint Fusion Surgery,693,3,1,5,0,100,Female,65804,1
+13,Bone Marrow Aspiration,985,3,2,3,0,10,Male,13643,0
+2,C-Section,692,1,3,5,1,9,Female,15111,0
+6,Hip Replacement Surgery,356,1,3,3,1,77,Male,1537,0
+11,Rotator cuff surgery,1407,2,4,4,0,62,Female,17035,1
+12,Congenital heart defect Surgery,252,5,0,5,1,67,Male,26062,1
+7,Joint Fusion Surgery,1042,0,1,1,0,49,Female,85296,1
